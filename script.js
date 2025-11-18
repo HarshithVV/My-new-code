@@ -1,3 +1,3 @@
 let a = "Harshith";
 let b = "sharath";
-let c = "Bharath";
+let c = 12;
